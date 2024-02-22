@@ -1,7 +1,8 @@
 import React from "react";
 // import Problem1 from "./Problem1";
-import Problem2 from "./Problem2";
-import Problem3 from "./Problem3";
+// import Problem2 from "./Problem2";
+// import Problem3 from "./Problem3";
+import Problem4 from "./Problem4";
 
 // import MemoConcept from "./MemoConcept";
 // import UseCallback from "./UseCallback";
@@ -19,7 +20,8 @@ function App() {
       {/* <PostApiAxios /> */}
       {/* <Problem1/> */}
       {/* <Problem2 /> */}
-      <Problem3 />
+      {/* <Problem3 /> */}
+      <Problem4 />
       {/* <GetApi /> */}
       {/* <Counter /> */}
       {/* <MemoConcept /> */}
